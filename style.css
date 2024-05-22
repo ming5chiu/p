@@ -364,14 +364,14 @@ a:hover {
   overflow: hidden;
 }
 .padding-top-bottom-120 {
-	padding-top: 120px;
-	padding-bottom: 120px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 .padding-top-120 {
-	padding-top: 120px;
+	padding-top: 50px;
 }
 .padding-bottom-120 {
-	padding-bottom: 120px;
+	padding-bottom: 50px;
 }
 .border-4 {
 	border-radius: 4px;
@@ -420,7 +420,7 @@ a:hover {
 .btn-pricing{
 	color: var(--white);
   background-color: var(--success);
-	height: 160px;
+	height: 120px;
 	border-radius: 0;
 }
 .btn-pricing:active,
@@ -432,7 +432,7 @@ a:hover {
 .btn-pricing-2{
 	color: var(--white);
     background-color: var(--orange);
-	height: 160px;
+	height: 120px;
 	border-radius: 0;
 }
 .btn-pricing-2:active,
